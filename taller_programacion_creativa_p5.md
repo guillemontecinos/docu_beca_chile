@@ -35,7 +35,7 @@ A continuación se presenta una documentación visual del curso, y posteriorment
     - setup()
     - draw()
 
-### Sesión 2
+### [Sesión 2](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_2/slides/#/)
 
   - .js básico 3: color RGB
   - .js básico 4: variables
@@ -51,7 +51,7 @@ A continuación se presenta una documentación visual del curso, y posteriorment
     - variables intrínsecas: mouseX, mouseY, height, width
     - figuras en movimiento
 
-### Sesión 3
+### [Sesión 3](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_3/slides/#/)
 
   - .js básico 5: for loops
     - para qué siver un loop?
@@ -61,7 +61,7 @@ A continuación se presenta una documentación visual del curso, y posteriorment
     - declarar un for loop en p5.js
   - p5.js básico 5.2: respuesta
 
-### Sesión 4
+### [Sesión 4](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_4/slides/#/)
 
   - .js básico 6: funciones 2
     - estructura de una función
@@ -79,7 +79,7 @@ A continuación se presenta una documentación visual del curso, y posteriorment
   - p5.js básico 7 (bonus): captura de video
     - createCapture()
 
-### Sesión 5
+### [Sesión 5](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_5/slides/#/)
 
   - .js básico 8: objetos 2
     - especificación de un objeto: función constructor
