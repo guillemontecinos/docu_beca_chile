@@ -8,6 +8,10 @@ El curso tuvo una duración de 6 sesiones de 2 horas cada una, y fue diseñado p
 A continuación se presenta una documentación visual del curso, y posteriormente se describe el programa del mismo, en el cual se incorporan links al material de cada clase.
 
 ## Documentación
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/taller_p5_indepe/indepe_1.jpg)
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/taller_p5_indepe/indepe_2.jpg)
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/taller_p5_indepe/indepe_3.jpg)
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/taller_p5_indepe/indepe_4.jpg)
 
 ## Programa
 ### [Sesión 1](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_1/slides/#/)
