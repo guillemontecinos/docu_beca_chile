@@ -10,7 +10,7 @@ A continuación se presenta una documentación visual del curso, y posteriorment
 ## Documentación
 
 ## Programa
-### Sesión 1
+### [Sesión 1](http://codedescuela.cl/taller1-intro-programacion-creativa-p5js-2017-05/sesiones/sesion_1/slides/#/)
 
   - Introducción al taller
   - Motivaciones
