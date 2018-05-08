@@ -85,10 +85,8 @@ A continuación se presenta una documentación visual del curso, y posteriorment
     - especificación de un objeto: función constructor
     - new
     - this.
-  - p5.js básico 8: aplicaciones visuales responsivas
-    - espejo de brillo (ejemplo Shiffman)
-    - video tracking
-      - biblioteca de video tracking para .js 'clmtrackr.js'
+    - arreglo de objetos
+    - buenos modales en la programación
 
 ### Sesión 6
 Cierre de taller
