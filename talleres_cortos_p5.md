@@ -10,7 +10,15 @@ Talleres cortos de p5.js dictados por Guillermo Montecinos junto a Coded Escuela
 ## Talleres en Región de los Lagos
 
 ### Puerto Varas
+Dictado en el Centro de Arte Digital Juan Downey de Puerto Varas.
+* [Publicidad taller p5.js en Centro de Arte Digital Juan Downey](http://cadjd.org/2017/05/08/taller-ps5-js/)
 
-[Publicidad taller p5.js en Centro de Arte Digital Juan Downey](http://cadjd.org/2017/05/08/taller-ps5-js/)
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/talleres_p5_XRegion/xreg_1.jpg)
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/talleres_p5_XRegion/xreg_2.jpg)
 
 ### Puerto Montt 
+Dictado en la Casa de la Cultura Diego Rivera de Puerto Montt.
+
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/talleres_p5_XRegion/xreg_3.jpg)
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/talleres_p5_XRegion/xreg_4.jpg)
+![](https://github.com/guillemontecinos/docu_beca_chile/blob/master/fotos/talleres_p5_XRegion/xreg_5.jpg)
